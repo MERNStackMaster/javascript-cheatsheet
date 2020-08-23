@@ -57,7 +57,7 @@ multiply([68468463, 879522]);
 for (
     // 3 parts
     let counter = 0;        // 1. counter
-    counter < 5;           // 2. while a condition is true
+    counter < 5;            // 2. while a condition is true
     counter = counter + 1   // 3. what to do once the loop is completed
 
 ) {
